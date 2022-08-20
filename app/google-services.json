@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620175002198",
+    "project_id": "pushnotification-da27b",
+    "storage_bucket": "pushnotification-da27b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620175002198:android:ef46597899dbe6442d09f7",
+        "android_client_info": {
+          "package_name": "ir.MrMohamadHosein.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620175002198-cjh48p6av6ik25dipvfrhdufir89sfjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeR5Twus4owTmxuF9TfEsEgYCgwuw2T-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620175002198-cjh48p6av6ik25dipvfrhdufir89sfjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
